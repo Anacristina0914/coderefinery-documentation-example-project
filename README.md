@@ -1,7 +1,11 @@
-## Code refinary hands on
-## Documentation lesson
-This is an example of a markdown readme documentation file. 
+## Temperatuer analysis
+## Functions documentation
 
-Dependencies:
-- Conda environment
-- Binder
+### mean_temperature
+Calculates the mean temperature in excel spreadsheet.
+
+### get_spreadsheet_columns
+Takes a file path and retrieved the columns in the given excel spreadsheet.
+
+### analyse_spreadsheet.py
+Main python script, can be run from command line. 
